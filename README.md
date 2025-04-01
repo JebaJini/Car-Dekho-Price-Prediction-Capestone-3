@@ -123,7 +123,7 @@ The project utilizes historical data from CarDekho, covering multiple cities and
 ---
 
 ### Contributors
-Developed by: [Your Name]
+Developed by: [Jeba Jini]
 
 For queries and suggestions, feel free to reach out!
 
